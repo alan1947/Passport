@@ -1,0 +1,6 @@
+Data Warehouse Fundamentals for Beginners
+ODI Training - Data Warehouse Basics 1 [101-BASICS]
+ODI Training - Data Warehouse Basics 2 [101-BASICS]
+Data Warehouse ETL Testing & Data Quality Management A-Z
+Data Warehousing - Knowledge Based Assessment [101-BASICS]
+Software Testing [101-Basics]
